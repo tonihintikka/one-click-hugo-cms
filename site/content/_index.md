@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Terve mitä kuuluu
+subtitle: Vähän vaihetaan tekstejä.
 image: img/about-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
